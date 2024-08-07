@@ -8,6 +8,7 @@ these are sketchbook drawings/studies!
 * sketch 2: poses from artists online
 * sketch 3: digital painting practice
 * ~~sketch~~ drawing 4: pose study (the long periods of time where nothing seems to happen in the lineart is me refining lineart)
+* sketch 5: pose study 2
 
 ## konqi_plush folder
 making a stuffed animal of KDE's mascot, konqi (in request by one of my awesome friends)
